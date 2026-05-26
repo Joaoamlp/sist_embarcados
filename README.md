@@ -231,3 +231,15 @@ Bloco C — MQTT
 O sensor de turbidez não mede o fundo do reservatório diretamente. O sistema identifica **aumento de turbidez como sinal de degradação da qualidade visual da água** e possível necessidade de limpeza da cisterna. O acúmulo de resíduos e a perturbação da água provocam elevação mensurável da turbidez, que é usada como indicativo de manutenção.
 
 ---
+
+## 👥 Equipe
+
+| Membros | Responsabilidades |
+| :--- | :--- |
+| Gabriel Tabosa | Teste da Aplicação |
+| João Antonio | Dashboard |
+| Arthur Capistrano | ML |
+| Gheyson Melo | Codido c++ |
+| Ericos Chen | Teste da Aplicação |
+| Lucas Holanda | ML |
+
